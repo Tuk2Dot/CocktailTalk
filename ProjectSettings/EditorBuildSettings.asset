@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
     path: Assets/Scenes/CocktailTalk.unity
     guid: a06e97853815ae34aaf5c63d8fb74843
   - enabled: 1
-    path: Assets/Scenes/Talk.unity
-    guid: f568f2a655f939349abe70dbcc729437
+    path: Assets/Scenes/TalkScene.unity
+    guid: 009bdb0af5090a3438e3dc974c26e69f
   m_configObjects: {}
