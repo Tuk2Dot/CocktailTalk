@@ -19,14 +19,10 @@ public class SelectText1 : MonoBehaviour
         string[] visitorNum = DataManager.instance.GetVisitorData();
         visitor = "visitor" + visitorNum[0];
 
-        //path_select1 = Application.dataPath + "/Resources/" + visitor + "_A1.txt";
-
-        path_select1 = visitor + "_A1";
-        TextAsset asset1 = Resources.Load(path_select1) as TextAsset;
+        path_select1 = Application.streamingAssetsPath + "/" + visitor + "_A1.txt";
         selectList = System.IO.File.ReadAllLines(path_select1);
 
-        //path_emotion1 = Application.dataPath + "/Resources/" + visitor + "_E1.txt";
-        TextAsset asset2 = Resources.Load("test") as TextAsset;
+        path_emotion1 = Application.streamingAssetsPath + "/" + visitor + "_E1.txt";
         emotionList = System.IO.File.ReadAllLines(path_emotion1);
 
         GameObject select1 = GameObject.Find("Select1");

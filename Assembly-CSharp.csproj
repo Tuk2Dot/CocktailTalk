@@ -83,27 +83,27 @@
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\Resources\visitor2_Q.txt" />
-    <None Include="Assets\Resources\visitor1_A3.txt" />
+    <None Include="Assets\streamingAssets\visitor2_Q.txt" />
+    <None Include="Assets\streamingAssets\visitor1_A3.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Texts\visitor1_Q.txt" />
-    <None Include="Assets\Resources\visitor2_E3.txt" />
+    <None Include="Assets\streamingAssets\visitor2_E3.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\Texts\visitor1_E3.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
-    <None Include="Assets\Resources\visitor1_Q.txt" />
-    <None Include="Assets\Resources\visitor2_E1.txt" />
-    <None Include="Assets\Resources\visitor1_E2.txt" />
+    <None Include="Assets\streamingAssets\visitor1_Q.txt" />
+    <None Include="Assets\streamingAssets\visitor2_E1.txt" />
+    <None Include="Assets\streamingAssets\visitor1_E2.txt" />
     <None Include="Assets\Texts\visitor1_E2.txt" />
     <None Include="Assets\Texts\visitor1_E1.txt" />
-    <None Include="Assets\Resources\visitor2_A2.txt" />
-    <None Include="Assets\Resources\visitor2_A1.txt" />
+    <None Include="Assets\streamingAssets\visitor2_A2.txt" />
+    <None Include="Assets\streamingAssets\visitor2_A1.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-    <None Include="Assets\Resources\visitor1_E1.txt" />
-    <None Include="Assets\Resources\visitor1_A2.txt" />
+    <None Include="Assets\streamingAssets\visitor1_E1.txt" />
+    <None Include="Assets\streamingAssets\visitor1_A2.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
@@ -115,15 +115,15 @@
     <None Include="Assets\BarStool\Documentaion.txt" />
     <None Include="Assets\Stylized NPC - Peasant Nolant\README.txt" />
     <None Include="Assets\Texts\visitor1_A1.txt" />
-    <None Include="Assets\Resources\visitor1_A1.txt" />
-    <None Include="Assets\Resources\visitor1_E3.txt" />
+    <None Include="Assets\streamingAssets\visitor1_A1.txt" />
+    <None Include="Assets\streamingAssets\visitor1_E3.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\Resources\visitor2_A3.txt" />
+    <None Include="Assets\streamingAssets\visitor2_A3.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-    <None Include="Assets\Resources\visitor2_E2.txt" />
+    <None Include="Assets\streamingAssets\visitor2_E2.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>

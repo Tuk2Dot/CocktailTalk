@@ -19,10 +19,10 @@ public class SelectText3 : MonoBehaviour
         string[] visitorNum = DataManager.instance.GetVisitorData();
         visitor = "visitor" + visitorNum[0];
 
-        path_select3 = Application.dataPath + "/Resources/" + visitor + "_A3.txt";
+        path_select3 = Application.streamingAssetsPath + "/" + visitor + "_A3.txt";
         selectList = System.IO.File.ReadAllLines(path_select3);
 
-        path_emotion3 = Application.dataPath + "/Resources/" + visitor + "_E3.txt";
+        path_emotion3 = Application.streamingAssetsPath + "/" + visitor + "_E3.txt";
         emotionList = System.IO.File.ReadAllLines(path_emotion3);
 
         GameObject select3 = GameObject.Find("Select3");

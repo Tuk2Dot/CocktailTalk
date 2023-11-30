@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 114
+  controlID: 113
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -321,7 +321,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/streamingAssets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -329,15 +329,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/streamingAssets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\\uACE0\uC11C\uC601\\Desktop\\SW\\Cocktail_Talk"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 50.42856}
-    m_SelectedIDs: 1e5d0000
-    m_LastClickedID: 23838
+    m_SelectedIDs: 385d0000
+    m_LastClickedID: 23864
     m_ExpandedIDs: 00000000fe5c0000005d0000025d0000045d0000065d0000085d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -508,7 +508,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 60cffeff9ecffeffe0d5feff56dcfeff7cdcfeff1e01ffff3206ffff221cffffa221ffff1425ffff5225ffff942bffff0a32ffff3032ffff9832ffff1838ffff5c38ffff083fffff2462ffff0268ffff6e81ffff4689ffffc495ffff1ca4ffff0cb1ffffc4baffff8cc0ffffd0c7ffff68ceffff66e7ffffc0eafffffeeaffff38f1ffffa6f7ffffc4f7ffff30fbffff2a7a0000367a00005c7a0000807b0000a07b0000b67b0000e27b00002c7c0000cc9000008c910000669400008c94000010950000d095000066aa000056ab000016ac000058ac0000dac300002cc600007ac60000ceef00008ef0000010340100d0340100
+      m_ExpandedIDs: 709cffffae9cffffe8a2ffff56a9ffff74a9ffffc4c2ffff54f3ffff30fbfffffc6b0000bc6c0000b893000078940000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

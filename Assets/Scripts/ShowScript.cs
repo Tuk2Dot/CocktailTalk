@@ -16,7 +16,7 @@ public class ShowScript : MonoBehaviour
         string[] visitorNum = DataManager.instance.GetVisitorData();
         visitor = "visitor" + visitorNum[0];
 
-        path = Application.dataPath + "/Resources/" + visitor + "_Q.txt";
+        path = Application.streamingAssetsPath + "/" + visitor + "_Q.txt";
         scriptList = System.IO.File.ReadAllLines(path);
 
         GameObject scriptText = GameObject.Find("ScriptText");
